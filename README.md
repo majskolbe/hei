@@ -1,3 +1,2 @@
 # hei
 hade
-brukernavn: majskolbe
